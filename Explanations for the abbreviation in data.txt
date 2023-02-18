@@ -1,5 +1,3 @@
-Brief description of the datafiles in the manuscript entitled “Soil biota diversity and plant diversity both contributed to ecosystem stability in grasslands” by Wu et al. (2023).
-
 Column	Units	Description
 Site	--	Unique ID for each site
 Plot	--	Unique ID for each plot in site
